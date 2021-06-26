@@ -1,3 +1,3 @@
-#MongoDB Boilerplate
+# MongoDB Boilerplate
 
 graphql/resolvers/users.js not included
